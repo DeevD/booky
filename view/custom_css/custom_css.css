@@ -1,0 +1,284 @@
+.img-logo{
+    margin: 10px;
+}
+
+.form_style{
+    margin-top: 300px;
+}
+.sign_up_style{
+    background: #f4511e;
+}
+.label_style{
+    font-weight: 500;
+    color: white;
+}
+.jumbotron_custom{
+            width: 100%;
+           background-color: #f4511e;
+            color: #fff;
+            padding: 100px 25px;
+            /*padding: 10px ;*/
+            font-family: Montserrat, sans-serif;
+          }
+          .slideanim {visibility:hidden;}
+  .slide {
+         animation-name: slide;
+         -webkit-animation-name: slide;
+           animation-duration: 1s;
+           -webkit-animation-duration: 1s;
+            visibility: visible;
+  }
+
+        .carousel-control.right, .carousel-control.left {
+            background-image: none;
+            color: #f4511e;
+        }
+        .carousel-indicators li {
+            border-color: #f4511e;
+        }
+        .carousel-indicators li.active {
+            background-color: #f4511e;
+        }
+        .item h4 {
+            font-size: 19px;
+            line-height: 1.375em;
+            font-weight: 400;
+            font-style: italic;
+            margin: 70px 0;
+        }
+        .item span {
+            font-style: normal;
+        }
+
+        .SignUp{
+          text-decoration: none;
+          color: #000;
+        }
+
+.img_location{
+    float: right;
+}
+.new_arrival p {
+     background-color: #e6e6e6;
+     border-radius: 10px;
+        color: #000;
+    padding: 25px 25px;
+    font-family: Montserrat, sans-serif;
+}
+.new_arrival span{
+    margin: 30px;
+    font-family: monospace;
+}
+.left_bottom{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.title_signup{
+    padding: 25px 25px;
+    color: white;
+    font-size: 40px;
+    font-style: unset;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}   
+.footer_style  {
+  background:gray;
+  color: #fff;
+  padding: 20px;
+  display: inline;
+    font-family: Montserrat, sans-serif;
+}  
+
+.one_pic{
+    margin-top: 30px;
+}
+.custom_jumber{
+    margin-top: 60px;
+    padding: 80px;
+    background: lightpink;
+}
+.jb{
+    margin-top: 10px;
+    padding: 30px;
+    background: white; 
+}
+
+.border{
+    border-radius: 20px;
+    padding: 20px;
+    border: 20px;
+    border-bottom-color: blue;
+    border-block-end-color: lightpink;
+    shape-outside: 20px;
+    border-color: #000;
+    background-image: url(image/simple.jpg);
+}
+.custom_navigation
+{
+    background-color:#f4511e;
+    color: white;
+}
+.custom_font ul li
+{
+    color: blue;
+}
+.responsive_bg
+{
+background-image:url('../image/coffeebook.jpeg');
+/*background-repeat:no-repeat;
+background-size:contain;
+width: 100%;
+background-position:center;*/
+}
+.responsive_bg
+{
+    width: 100%;
+    background-size: 100% 100%;
+     padding: 150px 25px;
+
+
+}
+
+.text_bg
+{
+    max-width: 40%;
+    height: 100px;
+    color: white;
+    /*margin: 20px;*/
+    border-radius: 30px;
+    background: #f4511e;
+    padding: 6px;
+    padding-bottom: 10px;
+    /*margin-left: 350px;*/
+    text-align: center;
+    
+}
+.responsive_bg_signup
+{
+     width: 100%;
+    background-size: 100% 100%;
+     padding: 100px 25px;
+     height: 100%;
+
+}
+.responsive_bg_signup
+{
+    background-image: url(../image/signup.jpeg);
+    
+}
+.responsive_bg_book
+{
+     width: 100%;
+     height: 400px;
+     background-size: 100% 100%;
+     padding: 100px 25px;
+
+}
+.responsive_bg_book
+{
+    background-image: url(../image/bookstand.jpeg);
+}
+
+.save_bg
+{
+     width: 100%;
+     height: 400px;
+     background-size: 100% 100%;
+     padding: 100px 25px;
+
+}
+
+.save_bg
+{
+    background-image: url(../image/save.jpeg);
+}
+
+.cate_color
+{
+    color: white;
+}
+
+.label
+{
+    color: lightcoral;
+    font-family: Courier New, Courier, monospace;
+}
+.cus_create
+{
+    background: rgba(210, 180, 140,0.5);
+    margin: 0 auto;
+    width: 100%;
+    height: 300;
+    border-radius: 10;
+    padding: 60px 10px;
+
+}
+
+.cus_form
+{
+    background: rgba(52, 73, 94, 0.7);
+    width: 550px;
+    height: 500px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50;
+    border-radius: 20px;
+    
+}
+.cus_img 
+{
+    width: 150;
+    height: 150;
+    margin-top: -75px;
+    margin-bottom:20px;
+    margin-right: 30px;
+
+}
+.cus_input
+{
+    height: 45px;
+    font-size: 18px;
+}
+.cus_font
+{
+    font-size: 18px;
+    height: 45px;
+    margin-top: 10;
+    color: white;
+}
+
+.cus_request
+{
+    width: 550px;
+    height: 400px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 20;
+    background: rgba(455, 73, 94, 0.7);
+     padding: 60px 10px;
+
+}
+.cus_li
+{
+    background: white;
+    height: 30;
+    color: blue;
+
+}
+.cus_li{
+padding: 0 10px 0 7px;
+line-height: 2em;
+display: block;
+zoom: 1;
+text-decoration: none !important;
+background: #fff;
+}
+.cus_badge
+{
+    background:white;color:black;width:30;height:20;padding:5;
+}
+.cus_font
+{
+    color: darkcyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15;
+}

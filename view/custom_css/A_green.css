@@ -1,0 +1,32 @@
+	ul.pagination li.details{
+	   color:deeppink;
+	   margin-left: 100px;
+	   float: right;
+	}
+    
+    ul.pagination li a
+	{
+		border-radius:3px;
+		color: white;	
+		-moz-border-radius:3px;
+		-webkit-border-radius:3px;
+		padding:6px 9px 6px 9px;
+	}
+
+	ul.pagination li a
+	{
+		float: right;
+        color: white;
+		background:palegreen;
+		background:-moz-linear-gradient(top,#87AB19,saddlebrown);
+		background:-webkit-gradient(linear,0 0,0 100%,from(white),to(white));	
+	}	
+	
+	ul.pagination li a:hover,
+	ul.pagination li a.current
+	{
+			   float: right;
+		color:lightcoral;
+		background:lightcoral;
+		color: white;
+	}
